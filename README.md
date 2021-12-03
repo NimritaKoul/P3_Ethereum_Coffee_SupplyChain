@@ -18,10 +18,16 @@ UML Diagrams and screen shots are in the images folder
 I gratefully acknowledge the help I got from the following resources while completing this project.
 
 References –
+
 https://www.youtube.com/watch?v=s-Cp9CYBheo
+
 https://github.com/scliff108/udacity_SupplyChain
+
 https://github.com/andistoev/udacity-blockchain-developer-nanodegree--nd1309/tree/master/project3-ethereum-supply-chain-n-data-auditing-dapp
+
 https://github.com/axelgalicia/blockchain-supply-chain/blob/master/project-6/test/TestSupplychain.js
+
+https://github.com/itsdivik/Blockchain-DApp-for-tracking-items-through-Supply-Chain
 
 
 
